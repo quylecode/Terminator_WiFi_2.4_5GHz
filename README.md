@@ -15,6 +15,7 @@ This firmware was designed for research purpose and wireless testing.
   `Information device`:
   - BW16 RTL8720DN
   - TFT 2.8 INCH - ILI9341 - TOUCH
+  - Password: 0000
     
 # Schematic
 ![rtl8720 terminator wirings](./image/schematic_rtl8720_terminator.png)
