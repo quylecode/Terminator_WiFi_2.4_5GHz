@@ -12,6 +12,10 @@ This firmware was designed for research purpose and wireless testing.
 - Can attack 2.4Ghz 5Ghz band wifi with wpa2 security except wpa3.
 - Generate random spam wifi up to 100 wifi or user created.
 
+  `Information device`:
+  - BW16 RTL8720DN
+  - TFT 2.8 INCH - ILI9341 - TOUCH
+    
 # Schematic
 ![rtl8720 terminator wirings](./image/schematic_rtl8720_terminator.png)
 # Product
